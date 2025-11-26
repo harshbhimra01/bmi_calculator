@@ -5,7 +5,7 @@ A simple web app that lets you calculate your Body Mass Index (BMI).
 Supports both **metric** (kg/cm) and **imperial** (lbs/in) units.
 
 <p align="center">
-  <img src="/mnt/data/efcb1afa-8d26-4ad7-9e06-5575084a2be9.png" width="650">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQxODkzNjUsIm5iZiI6MTc2NDE4OTA2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI2VDIwMzEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiMTBmNDYyYzMwYzExYTlkNjYyYzc1NGY5NWJjMjZhNWM1YWIyMzAyZmM0YzA3MThhZDlkNWQxOTIxMTNmMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.upLzyEOoytRVB73M4ofRgSz0D8ECiuQfqjv-P89mSmQ" width="650">
 </p>
 
 ---
